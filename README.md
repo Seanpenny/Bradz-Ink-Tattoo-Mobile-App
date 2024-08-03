@@ -63,6 +63,8 @@ Push Notifications
 
 For notifying users about upcoming appointments, new messages, and updates from the community.
 
+### what the app looks like
+Screenshot 2024-08-03 141627.png
 
 
 
